@@ -1,7 +1,5 @@
 # Task Management Web Api Readme
 
-# Task Management API
-
 Task Management API.
 The README provides an overview of the API's functionality, how to set it up, and its available routes.
 
