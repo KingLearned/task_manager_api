@@ -1,5 +1,5 @@
 {
-  "name": "task management application",
+  "name": "task_management_application",
   "version": "1.0.0",
   "description": "this is serve built for easy communication between the ui and the database",
   "main": "index.js",
