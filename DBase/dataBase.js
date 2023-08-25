@@ -1,10 +1,6 @@
 import MYSQL from 'mysql'
 
 export const DB = MYSQL.createConnection({
-    // host:'localhost',
-    // user:'root',
-    // password:'Learned 1945',
-    // database:'taskapp'
     host: "db4free.net",
     user: "learnedsconcept",
     password: 'm94jC6bS3Xp!2LR',
