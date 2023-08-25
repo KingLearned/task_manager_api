@@ -3,7 +3,6 @@ import { addTask, getTasks, updateTask, deleteTask } from '../controllers/task.j
 const router = express.Router()
 
 router.get('/', getTasks)
-// router.get('/:id', getTasks)
 
 router.post('/', addTask)
 
