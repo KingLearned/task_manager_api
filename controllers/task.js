@@ -33,6 +33,8 @@ export const getTasks = (req, res) => {
                 data[i].subtask = JSON.parse(data[i].subtask) 
             }
             return res.json(data)
+        }else{
+            return res.json([])
         }
     })
 }
